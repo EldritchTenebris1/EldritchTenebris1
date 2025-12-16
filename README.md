@@ -1,14 +1,14 @@
 # 🔮 Eldritch Tenebris | Especialista em Backend & Desenvolvimento de Bots para Discord
 
 <div align="center">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Eldritch-Tenebris/Eldritch-Tenebris/main/.github/badges/last-update.json" alt="Última Atualização" />
-  <img src="https://img.shields.io/badge/Profile-Eldritch--Tenebris-6e57d4?style=for-the-badge&logo=github&logoColor=white" alt="Profile" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EldritchTenebris1/EldritchTenebris1/main/.github/badges/last-update.json" alt="Última Atualização" />
+  <img src="https://img.shields.io/badge/Profile-EldritchTenebris1-6e57d4?style=for-the-badge&logo=github&logoColor=white" alt="Profile" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Eldritch-Tenebris">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eldritch-Tenebris&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eldritch-Tenebris&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <a href="https://github.com/EldritchTenebris1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EldritchTenebris1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldritchTenebris1&layout=compact&langs_count=8&theme=midnight-purple"/>
   </a>
 </div>
 
@@ -44,16 +44,16 @@
 
 - 💜 **DiscordPy-Base** → Base moderna para bots Discord em **Python**
 - 💜 **Base-Typescript** → Base moderna para bots Discord em **TypeScript**
-- 💜 **Titan-API** → **API RESTful robusta e escalável** com **Node.js & TypeScript**
+- 💜 **Titan-API** → **API RESTful robusta e escalável**, construída com **Node.js & TypeScript**, focada em boas práticas e arquitetura limpa
 
 ---
 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eldritch-Tenebris&theme=midnight_purple"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EldritchTenebris1&theme=midnight_purple"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Eldritch-Tenebris&theme=midnight-purple&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EldritchTenebris1&theme=midnight-purple&hide_border=true"/>
 </div>
 
 ---
@@ -61,9 +61,9 @@
 ## 🏆 Conquistas & Informações do Perfil
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eldritch-Tenebris&theme=nord&column=4&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=EldritchTenebris1&theme=nord&column=4&no-frame=true&margin-w=15"/>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Eldritch-Tenebris&color=6e57d4&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=EldritchTenebris1&color=6e57d4&style=for-the-badge"/>
 </div>
 
 ---
@@ -75,8 +75,8 @@
 - 📜 Formado em **Análise e Desenvolvimento de Sistemas**
 - 🤖 Crio **bots para o Discord sob demanda**
 - ⚡ Experiência com **APIs, automação, microservices & DevOps**
-- 📚 Sempre aprendendo novas tecnologias
-- 💫 Apaixonado por automação e soluções inovadoras
+- 📚 Sempre aprendendo novas tecnologias e evoluindo projetos
+- 💫 Apaixonado por automação, desenvolvimento eficiente e soluções inovadoras
 
 ---
 
