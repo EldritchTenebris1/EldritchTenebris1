@@ -1,7 +1,7 @@
 # 🔮 Eldritch Tenebris | Especialista em Backend & Desenvolvimento de Bots para Discord
 
 <div align="center">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/EldritchTenebris1/EldritchTenebris1/main/.github/badges/last-update.json" alt="Última Atualização" />
+  <img src="https://img.shields.io/endpoint?style=for-the-badge&url=https://raw.githubusercontent.com/EldritchTenebris1/EldritchTenebris1/main/.github/badges/last-update.json" alt="Última Atualização" />
   <img src="https://img.shields.io/badge/Profile-EldritchTenebris1-6e57d4?style=for-the-badge&logo=github&logoColor=white" alt="Profile" />
 </div>
 
